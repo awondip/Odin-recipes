@@ -1,0 +1,22 @@
+h1 {
+    font-size: 30px;
+    color: blue;
+    font-weight: bold;
+    padding: 8px;
+}
+.img-1 {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+}
+.content {
+    width: 500px;
+    height: auto;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+ol li {
+    padding: 10px;
+    
+}
